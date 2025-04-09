@@ -11,7 +11,10 @@ I‘m stones. About me
 
 **✍️[Golang]**
 
-* [convert-dataset](https://github.com/stones-hub/convert-dataset)：ai模型训练生成自定义数据集，以及mcp协议的运用
+* [convert-dataset](https://github.com/stones-hub/convert-dataset):ai模型训练生成自定义数据集，以及mcp协议的运用
+* [go-zkteo](https://github.com/stones-hub/go-zkteco.git):打卡机的信息获取
+* [log-engine-sdk](https://github.com/stones-hub/log-engine-sdk.git):多协程硬盘日志监听收集
+* [k3-log](https://github.com/stones-hub/k3-log.git):制作一个日志插件包，给其他项目使用
 
 **🏃[AI]**
 
