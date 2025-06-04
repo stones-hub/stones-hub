@@ -1,6 +1,3 @@
-
-# ![stones-hub](https://github-readme-stats.vercel.app/api?username=stones-hub)
-
 ## Hi there 👋
 
 I‘m stones. About me
