@@ -13,6 +13,7 @@ I‘m stones. About me
 * [log-engine-sdk](https://github.com/stones-hub/log-engine-sdk.git):多协程硬盘日志监听收集
 * [k3-log](https://github.com/stones-hub/k3-log.git):制作一个日志插件包，给其他项目使用
 * [Taurus](https://github.com/stones-hub/Taurus.git):api网关，集成服务发现，服务注册，mcp， gRPC, http, websocket常用协议
+* [taurus-pro-core]([https://github.com/stones-hub/Taurus.git](https://github.com/stones-hub/taurus-pro-core.git):微服务脚手架
 
 **🏃[AI]**
 
