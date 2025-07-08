@@ -14,6 +14,14 @@ I‘m stones. About me
 * [k3-log](https://github.com/stones-hub/k3-log.git):制作一个日志插件包，给其他项目使用
 * [Taurus](https://github.com/stones-hub/Taurus.git):api网关，集成服务发现，服务注册，mcp， gRPC, http, websocket常用协议
 * [taurus-pro-core](https://github.com/stones-hub/taurus-pro-core.git):微服务脚手架
+* [taurus-pro-common](https://github.com/stones-hub/taurus-pro-common.git):基础组件
+* [taurus-pro-config](https://github.com/stones-hub/taurus-pro-config.git):配置组件
+* [taurus-pro-http](https://github.com/stones-hub/taurus-pro-http.git):http组件
+* [taurus-pro-consul](https://github.com/stones-hub/taurus-pro-consul.git):Consul组件
+* [taurus-pro-opentelemetry](https://github.com/stones-hub/taurus-pro-opentelemetry.git)opentelemetry组件
+* [taurus-pro-tcp](https://github.com/stones-hub/taurus-pro-tcp.git)tcp组件
+* [taurus-pro-grpc](https://github.com/stones-hub/taurus-pro-grpc.git)gRPC组件
+* [taurus-pro-storage](https://github.com/stones-hub/taurus-pro-storage.git)DB、Redis组件
 
 **🏃[AI]**
 
