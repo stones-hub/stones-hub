@@ -3,9 +3,6 @@
 I‘m stones. About me
 
 --- 
-
-**😄[PHP]**
-
 **✍️[Golang]**
 
 * [convert-dataset](https://github.com/stones-hub/convert-dataset):ai模型训练生成自定义数据集，以及mcp协议的运用
@@ -22,10 +19,6 @@ I‘m stones. About me
 * [taurus-pro-tcp](https://github.com/stones-hub/taurus-pro-tcp.git):tcp组件
 * [taurus-pro-grpc](https://github.com/stones-hub/taurus-pro-grpc.git):gRPC组件
 * [taurus-pro-storage](https://github.com/stones-hub/taurus-pro-storage.git):DB、Redis组件
-
-**🏃[AI]**
-
-**🥋[其他]**
 
 Share
 --- 
