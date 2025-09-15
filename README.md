@@ -19,6 +19,7 @@ I‘m stones. About me
 * [taurus-pro-tcp](https://github.com/stones-hub/taurus-pro-tcp.git):tcp组件
 * [taurus-pro-grpc](https://github.com/stones-hub/taurus-pro-grpc.git):gRPC组件
 * [taurus-pro-storage](https://github.com/stones-hub/taurus-pro-storage.git):DB、Redis组件
+* [taurus-pro-milvus](https://github.com/stones-hub/taurus-pro-milvus ):Milvus向量数据库组件
 
 Share
 --- 
